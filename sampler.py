@@ -5,6 +5,7 @@ Created on Mon Oct 15 12:32:24 2018
 @author: q1012576
 """
 
+# Import dependencies #
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
